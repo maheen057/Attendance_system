@@ -22,7 +22,6 @@
 12. [Using the Student Portal](#using-the-student-portal)
 13. [Email Notifications](#email-notifications)
 14. [REST API Reference](#rest-api-reference)
-15. [Developer](#developer)
 
 ---
 
