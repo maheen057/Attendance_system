@@ -738,12 +738,4 @@ Expected: `Connected to: 8.0.mysql_aurora.3.07.x` (or similar Aurora version).
 
 ---
 
-## Developer
 
-**K. Janarthanan**
-- Blog: [scripting4ever.wordpress.com](https://scripting4ever.wordpress.com/2021/03/23/different-views-based-on-users-privileges-in-django-application/)
-- GitHub: [github.com/kujalk](https://github.com/kujalk)
-
----
-
-*Enhanced to Python 3.12 / Django 5.0 with Aurora Serverless v2, GitHub Actions CI/CD, bulk attendance marking, analytics dashboards, role-based portals, SMTP email notifications, and a complete UI overhaul.*
